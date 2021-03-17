@@ -1,4 +1,10 @@
 <?php
+
+// BEGIN iThemes Security - Do not modify or remove this line
+// iThemes Security Config Details: 2
+define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
+// END iThemes Security - Do not modify or remove this line
+
 /**
  * Основне поставке Вордпреса.
  *
@@ -63,7 +69,7 @@ define( 'NONCE_SALT',       ';QP*C n)lK|kR&znh;iFrfr&!iCxJ8ahslh7I*eFaR9;&hp8VFq
  * Можете имати више инсталација Вордпреса у једној бази уколико
  * свакој дате јединствени префикс. Само бројеви, слова и доње цртице!
  */
-$table_prefix = 'wp_';
+$table_prefix = 'd4vtcdjza5_';
 
 /**
  * За градитеље: исправљање грешака у Вордпресу ("WordPress debugging mode").
